@@ -62,8 +62,8 @@ author:
   avatar : "/assets/images/profile-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
       url: "https://"
     - label: "Location"
       icon: "fas fa-globe-americas"
