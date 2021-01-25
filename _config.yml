@@ -65,6 +65,8 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
+    - label: "Location"
+      icon: "fas fa-globe-americas"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
