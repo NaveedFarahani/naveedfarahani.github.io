@@ -63,10 +63,10 @@ author:
   bio    : "4th Year Chemical Engineering student at the University of Toronto"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://"
     - label: "Location"
-      icon: "fas fa-globe-americas"
+      icon: "fas fa-fw fa-globe-americas"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
