@@ -60,15 +60,13 @@ plugins:
 author:
   name   : "Naveed Farahani"
   avatar : "/assets/images/profile-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "4th Year Chemical Engineering student at the University of Toronto"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://"
     - label: "Location"
       icon: "fas fa-globe-americas"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
