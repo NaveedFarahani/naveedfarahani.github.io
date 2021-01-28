@@ -1,7 +1,7 @@
 ---
 layout: splash
 sitemap: false
-permalink: /home/
+permalink: /
 title: "Home"
 author_profile: TRUE
 header: 
