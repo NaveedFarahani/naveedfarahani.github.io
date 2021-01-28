@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 sitemap: false
 permalink: /home/
 title: "Home"
