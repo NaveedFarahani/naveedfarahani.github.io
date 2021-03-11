@@ -2,11 +2,11 @@
 layout: splash
 sitemap: false
 permalink: /
-title: "Home"
+title: "Welcome to My Site"
 author_profile: TRUE
 header: 
     overlay_image: /assets/images/homepage.jpg
-excerpt: "Hi, welcome to my site! My name is Naveed Farahani, and I am a Chemical           Engineering student in my 4th year at the University of Toronto. I am currently looking     for opportunities to begin my professional career upon graduation, you can read my resume   [here](https://naveedfarahani.github.io/resume) or can email me."
+excerpt: "My name is Naveed Farahani, and I am a Chemical Engineering student in my 4th year at the University of Toronto. I am currently looking for opportunities to begin my professional career upon graduation, you can read my resume [here](https://naveedfarahani.github.io/resume) or can email me."
 intro: 
     - excerpt: 'Talk about the capstone experience'
 feature_row:
