@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi again! Thank you for exploring my site! As previously stated, I'm 4th year Chemical Engineering student at the University of Toronto. I also am pursuing a minor in Bioengineering. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+However, I'm not all academics! In my spare time, I love to stay active any way that I can. I'm a passionate soccer player and fan, but I'm willing to try any sport. Besides sports, I have an interesting in both digital and film photography. You can see some of my photos here! Like many others, I used to read a lot as a kid, and I'm currently trying to rekindle my interest in books, you can read about my thoughts on recent books I've read here!
+
+I'm always looking to both learn and try new things, so if you have any suggestions on interesting topics, photography advice, or book recommendations, please reach out and share with me!
