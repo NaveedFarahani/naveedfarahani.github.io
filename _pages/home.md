@@ -19,39 +19,33 @@ feature_row:
     btn_label: "Read more"
   - image_path: /assets/images/homepage.jpg
     alt: "fully responsive"
-    title: "Design Review"
+    title: "Design Proposal"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/homepage.jpg
     alt: "100% free"
-    title: "Final Design"
+    title: "Design Review"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"  
   - image_path: /assets/images/umbrella.jpg
     alt: "customizable"
-    title: "Project Requirements"
+    title: "Final Design"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/homepage.jpg
     alt: "fully responsive"
-    title: "Design Review"
+    title: "Design Showcase"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/homepage.jpg
-    alt: "100% free"
-    title: "Final Design"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: "Read more" 
+
 ---
 
 {% include feature_row id="intro" type="center" %}
