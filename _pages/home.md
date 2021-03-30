@@ -10,7 +10,7 @@ excerpt: "My name is Naveed Farahani, and I am a Chemical Engineering student in
 intro: 
     - excerpt: 'Talk about the capstone experience'
 feature_row:
-  - image_path: /assets/images/homepage.jpg
+  - image_path: /assets/images/umbrella.jpg
     alt: "customizable"
     title: "Super customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
