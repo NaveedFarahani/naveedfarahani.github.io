@@ -9,7 +9,7 @@ However, I'm not all academics! In my spare time, I love to stay active any way 
 
 <figure>
   <img src="/assets/images/soccer.jpg" alt="Image" />
-  <figcaption><em>Highschool Soccer</em>caption</figcaption>
+  <figcaption><em>Highschool Soccer</em> caption</figcaption>
 </figure>
 
 I'm always looking to both learn and try new things, so if you have any suggestions on interesting topics, photography advice, or book recommendations, please reach out and share with me!
