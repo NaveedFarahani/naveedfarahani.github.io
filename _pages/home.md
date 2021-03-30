@@ -8,7 +8,7 @@ header:
     overlay_image: /assets/images/homepage.jpg
 excerpt: "My name is Naveed Farahani, and I am a Chemical Engineering student in my 4th year at the University of Toronto. I am currently looking for opportunities to begin my professional career upon graduation, you can read my resume [here](https://naveedfarahani.github.io/resume) or can email me."
 intro: 
-    - excerpt: 'Talk about the capstone experience'
+    - excerpt: 'This past school year, I decided to take part in UofT's Multidisciplinary Capstone Design course (APS490Y). As part of a team 6 Chemical and Mechanical engineering studets, we were tasked with designing a portable human powered water purification device for the Canadian disaster relief charity, GlobalMedic.'
 feature_row:
   - image_path: /assets/images/umbrella.jpg
     alt: "customizable"
