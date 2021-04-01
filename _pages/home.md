@@ -17,7 +17,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/homepage.jpg
+  - image_path: /assets/images/proposal.jpg
     alt: "fully responsive"
     title: "Design Proposal"
     excerpt: "Building upon the project requirements, we began solution ideation. Alternative designs were brainstormed before evaluations against objectives resulted in choosing the best design to continue with going forward."
