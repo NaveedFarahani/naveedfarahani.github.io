@@ -10,7 +10,7 @@ excerpt: "My name is Naveed Farahani, and I am a Chemical Engineering student in
 intro: 
     - excerpt: 'This past school year, I decided to take part in UofTs Multidisciplinary Capstone Design course (APS490Y). As part of a team 6 Chemical and Mechanical engineering studets, we were tasked with designing a portable human powered water purification device for the Canadian disaster relief charity, GlobalMedic.'
 feature_row:
-  - image_path: /assets/images/umbrella.jpg
+  - image_path: /assets/images/projectreq.jpg
     alt: "customizable"
     title: "Project Requirements"
     excerpt: "An initial exploration of our project. Work was done to define our scope, this included understanding the service environment/stakeholders, and detailing functions, objectives, constraints of any design."
