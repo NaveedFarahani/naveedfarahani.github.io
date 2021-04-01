@@ -38,7 +38,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/homepage.jpg
+  - image_path: /assets/images/showcase.jpg
     alt: "fully responsive"
     title: "Design Showcase"
     excerpt: "Present our final design and overall project work to an audience."
