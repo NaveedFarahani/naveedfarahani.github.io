@@ -41,7 +41,7 @@ feature_row:
   - image_path: /assets/images/showcase.jpg
     alt: "fully responsive"
     title: "Design Showcase"
-    excerpt: "Present our final design and overall project work to an audience."
+    excerpt: "Presented our final design and overall project work to an audience."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"
