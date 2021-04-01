@@ -24,14 +24,14 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/homepage.jpg
+  - image_path: /assets/images/review.jpg
     alt: "100% free"
     title: "Design Review"
     excerpt: "Prepared then presented our selected concept and design process to our client and project supervisor with the purpose of receiving a go/no go decision."
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"  
-  - image_path: /assets/images/review.jpg
+  - image_path: /assets/images/report.jpg
     alt: "customizable"
     title: "Final Design Report"
     excerpt: "Created a detailed breakdown of the proposed design, this included bill of materials, safety, ergonomics, lifecycle assessments, instruction manuals, and economic analyses."
