@@ -31,7 +31,7 @@ feature_row:
     url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Read more"  
-  - image_path: /assets/images/umbrella.jpg
+  - image_path: /assets/images/review.jpg
     alt: "customizable"
     title: "Final Design Report"
     excerpt: "Created a detailed breakdown of the proposed design, this included bill of materials, safety, ergonomics, lifecycle assessments, instruction manuals, and economic analyses."
