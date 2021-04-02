@@ -28,7 +28,7 @@ feature_row:
     alt: "100% free"
     title: "Design Review"
     excerpt: "Prepared then presented our selected concept and design process to our client and project supervisor with the purpose of receiving a go/no go decision."
-    url: "/about/"
+    url: "/courses/designreview"
     btn_class: "btn--primary"
     btn_label: "Read more"  
   - image_path: /assets/images/report.jpg
