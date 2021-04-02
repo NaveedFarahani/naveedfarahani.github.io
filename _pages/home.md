@@ -14,7 +14,7 @@ feature_row:
     alt: "customizable"
     title: "Project Requirements"
     excerpt: "An initial exploration of our project. Work was done to define our scope, this included understanding the service environment/stakeholders, and detailing functions, objectives, constraints of any design."
-    url: "/about/"
+    url: "/courses/pr"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/proposal.jpg
