@@ -42,7 +42,7 @@ feature_row:
     alt: "fully responsive"
     title: "Design Showcase"
     excerpt: "Presented our final design and overall project work to an audience."
-    url: "/about/"
+    url: "/courses/showcase"
     btn_class: "btn--primary"
     btn_label: "Read more"
 
