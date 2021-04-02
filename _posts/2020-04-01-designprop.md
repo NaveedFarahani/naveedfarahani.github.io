@@ -1,5 +1,5 @@
 ---
-title: "Project Requirements"
+title: "Design Proposal"
 categories:
   - Courses
 tags:
