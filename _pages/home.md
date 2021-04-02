@@ -35,7 +35,7 @@ feature_row:
     alt: "customizable"
     title: "Final Design Report"
     excerpt: "Created a detailed breakdown of the proposed design, this included bill of materials, safety, ergonomics, lifecycle assessments, instruction manuals, and economic analyses."
-    url: "/about/"
+    url: "/courses/finalreport"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/showcase.jpg
