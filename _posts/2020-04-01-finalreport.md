@@ -30,7 +30,10 @@ When not in use, please use the provided protective straps to secure the step pe
 > <cite>Section 4.0 of our Instruction Manual</cite>
 
 For the infographic, I had one page (front and back) to visualize the assembly, operation, and maintenance of our design. To complete this task, I began by working with my partner on the manual to storyboard each process with rough sketches. With an idea in mind of what I wanted to do; I was able to get help from our team’s CAD expert to create some of the more detailed visuals that I could not accomplish on PowerPoint.  The main challenge was ensuring in limited space that one could understand what needed to be done. To this end, I reached out to friends outside of my project team to receive their feedback – this was especially important as feedback from the team was biased in already having background knowledge. I also drew inspiration from the nature of IKEA manuals that use visuals over words to provide instruction. In final feedback we received from our client, I was extremely pleased to hear a comment about the infographic feeling like an IKEA manual. Below is the backside of the infographic detailing maintenance procedures.
-
+<figure>
+  <img src="/assets/images/infrographic.jpg" alt="Image" />
+  <figcaption><em>Maintenance Procedures detailed on Instruction Manual Infographic</em></figcaption>
+</figure>
 **My Thoughts:**<br>
 Write it in.
 
