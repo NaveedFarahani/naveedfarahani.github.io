@@ -6,7 +6,7 @@ tags:
   - university
   - capstone
 ---
-Summary:<br>
+**Summary:**<br>
 The Final Design Report (FDR) is the main component of the course as it is a fully detailed breakdown of our proposed solution. In addition to this, we included multiple other important elements such as the bill of materials, cost analysis, safety analysis, ergonomics analysis, impact assessment, instruction manuals, CAD files, and assembly drawings. The report is meant to be a comprehensive document that the client can refer to, if they choose to continue with further research and development of our design. 
 
 My Work:<br>
