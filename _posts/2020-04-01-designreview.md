@@ -8,7 +8,12 @@ tags:
 ---
 Having previously decided on the design that we as a group wanted to move forward with, the next step was to receive the approval of our client. Therefore, we needed to create a ~30-minute presentation that walked through our team’s design process, described how we had reached our intended solution, and finally detailed the design for both the client and our project supervisor. The intention was to receive their feedback and ultimately a go/no go decision.
 
-For the presentation I had two roles: present a portion detailing the proposed design’s purification component and also create the slide deck. The former role was quite simple, and I used the Design Proposal to determine what content I would focus on. The slide deck creation was more interesting and challenging. I began by creating a template (pictured below) that contained all the parts we needed to include in the position. Then, I had each team member add their information in jot note form. Finally, I took everything and redesigned it to fit a common theme as well as add visuals as needed. The main challenge was ensuring each slide conveyed the right message. Below is an example the before/after of a slide from the presentation. 
+For the presentation I had two roles: present a portion detailing the proposed design’s purification component and also create the slide deck. The former role was quite simple, and I used the Design Proposal to determine what content I would focus on. The slide deck creation was more interesting and challenging. I began by creating a template (pictured below) that contained all the parts we needed to include in the position. 
+<figure>
+  <img src="/assets/images/drtemplate.jpg" alt="Image" />
+  <figcaption><em>Template for Introduction section of Design Review Presentation</em></figcaption>
+</figure>
+Then, I had each team member add their information in jot note form. Finally, I took everything and redesigned it to fit a common theme as well as add visuals as needed. The main challenge was ensuring each slide conveyed the right message. Below is an example the before/after of a slide from the presentation. 
 
 The slide creation process was a lot of fun to work on because it offered a bit of a creative outlet in figuring out to how to convey everything visually and it was also a big departure from the document writing that we had been doing up until that point. 
 
