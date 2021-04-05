@@ -6,10 +6,10 @@ tags:
   - university
   - capstone
 ---
-Summary:
+Summary:<br>
 The Final Design Report (FDR) is the main component of the course as it is a fully detailed breakdown of our proposed solution. In addition to this, we included multiple other important elements such as the bill of materials, cost analysis, safety analysis, ergonomics analysis, impact assessment, instruction manuals, CAD files, and assembly drawings. The report is meant to be a comprehensive document that the client can refer to, if they choose to continue with further research and development of our design. 
 
-My Work:
+My Work:<br>
 In order to ensure we completed all necessary tasks and within the required timeframe, our team broke down deliverable into several phases and internal deadlines. In additional to ad-hoc editing and review of other sections, my main roles included participating in the safety analysis and the impact assessment, writing portions of the user manual and creating the accompanying infographic. 
 
 For the safety analysis, we decided that the best option was to conduct a HAZID assessment on our design. As a part of a smaller team of 3, we examined every “node” of the intended operation cycle, generating potential hazards and then developing possible safeguards or prevention strategies. Hazards were prioritized using a risk rating we created based on the product of the severity and likelihood of it occurring. Our findings were presented to the team that would incorporate the adjustments into the final design. Having learned and used HAZID as a tool for a 3rd year course, this was a good chance to build upon and apply my knowledge to an idea that had not been structured by a professor. Below are____.
