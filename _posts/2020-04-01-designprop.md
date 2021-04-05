@@ -16,7 +16,10 @@ As part of the purification team, initially we focused on researching and listin
 > <cite>Appendix F of our Design Proposal</cite>
 
 Next, I was tasked with the developing a viable design alternative based on a combination of carbon filtration and boiling to purify the water. Using the flowrate constraint, I began working backwards to determine what type of setup would be required to make it work. I soon realized that to design a brand-new carbon filter (i.e., choose the type of media, and size a housing unit) required more details than what could be provided at that stage, and after some rough calculations of estimated material costs, I realized an off the shelf solution would better meet the project FOCs. Below is an example of the calculations I performed while doing this. 
-
+<figure>
+  <img src="/assets/images/calcdp.jpg" alt="Image" />
+  <figcaption><em>Rough Calculations for a unique Carbon Filter</em></figcaption>
+</figure>
 Furthermore, I needed to ensure that any design not only fit our purification FOCs but would also be compatible with any mechanical pumping design. This was especially relevant in terms of power requirement. After researching boiling, I determined that it simply would not be possible to achieve large scale boiling off using only human power to meet the desired output rate. Once again, I made sure to promptly voice my concerns with the team, and as a group we decided to remove it as an alternative, and instead focus on using carbon filtration as an additional stage for the other alternative designs. The image below is taken from my portion of the report detailing the inclusion of carbon filtration in several alternative designs. 
 <figure>
   <img src="/assets/images/dpimage1.jpg" alt="Image" />
