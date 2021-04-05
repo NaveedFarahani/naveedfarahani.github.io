@@ -1,5 +1,5 @@
 ---
-title: "Introduction to APS490Y:Multidisciplinary Capstone Design"
+title: "APS490Y: End of Course Reflection"
 categories:
   - Courses
 tags:
