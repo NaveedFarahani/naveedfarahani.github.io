@@ -35,5 +35,5 @@ For the infographic, I had one page (front and back) to visualize the assembly, 
   <figcaption><em>Maintenance Procedures detailed on Instruction Manual Infographic</em></figcaption>
 </figure>
 **My Thoughts:**<br>
-Write it in.
+This was massive undertaking to complete the main course deliverable. There were many moving pieces, but I think it's a testament to the entire team that we met our internal deadlines and produced a polished end product. I was exposed to several different aspects of the design process during this deliverable and gave me a greater sense of appreciation for what needs to be done to create a final design. Overall, I was pleased with both myself and the team's work, and I looked forward to sharing it during our [Showcase and Final Meeting.](https://naveedfarahani.github.io/courses/showcase)
 
