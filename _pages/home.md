@@ -45,7 +45,13 @@ feature_row:
     url: "/courses/showcase"
     btn_class: "btn--primary"
     btn_label: "Read more"
-
+  - image_path: /assets/images/reflection.jpg
+    alt: "fully responsive"
+    title: "End of Course Reflection"
+    excerpt: "A self reflection of the skills I used throughout the project, and the experience I gained."
+    url: "/courses/reflection"
+    btn_class: "btn--primary"
+    btn_label: "Read more"
 ---
 
 {% include feature_row id="intro" type="center" %}
