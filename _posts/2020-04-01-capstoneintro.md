@@ -17,3 +17,5 @@ The team worked diligently on this problem for the entire school year, and each 
 -	[Final Design Report](https://naveedfarahani.github.io/courses/finalreport)
 -	[Design Showcase](https://naveedfarahani.github.io/courses/showcase) 
 -	[End of Course Reflection](https://naveedfarahani.github.io/courses/reflection) 
+
+If at any point while reading through my experience you feel that you would like to learn more about our project, please send me an email!
