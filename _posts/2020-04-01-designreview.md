@@ -6,8 +6,10 @@ tags:
   - university
   - capstone
 ---
+Summary:
 Having previously decided on the design that we as a group wanted to move forward with, the next step was to receive the approval of our client. Therefore, we needed to create a ~30-minute presentation that walked through our team’s design process, described how we had reached our intended solution, and finally detailed the design for both the client and our project supervisor. The intention was to receive their feedback and ultimately a go/no go decision.
 
+My Work:
 For the presentation I had two roles: present a portion detailing the proposed design’s purification component and also create the slide deck. The former role was quite simple, and I used the Design Proposal to determine what content I would focus on. The slide deck creation was more interesting and challenging. I began by creating a template (pictured below) that contained all the parts we needed to include in the position. 
 <figure>
   <img src="/assets/images/drtemplate.jpg" alt="Image" />
@@ -24,5 +26,6 @@ Then, I had each team member add their information in jot note form. Finally, I 
 </figure>
 The slide creation process was a lot of fun to work on because it offered a bit of a creative outlet in figuring out to how to convey everything visually and it was also a big departure from the document writing that we had been doing up until that point. 
 
-The presentation itself went quite well, and we were able to answer our client’s questions. In addition to our contact within GlobalMedic, two other senior members were present during our meeting, and all of their feedback was extremely helpful and mostly positive. Not only did we receive approval to continue with our design, but we also had comments that would help us guide us in improving the solution and creating our final design. To read more, click [here!](https://naveedfarahani.github.io/courses/finalreport).
+My Thoughts:
+The Design Review was a great chance to improve both my presentation and PowerPoint skills. As I had learned during my PEY, doing the work is only half of the job, you still need to be able to effectively explain what you did to the relevant stakeholders or else no one will credit you. The presentation itself went quite well, and we were able to answer our client’s questions. In addition to our contact within GlobalMedic, two other senior members were present during our meeting, and all of their feedback was extremely helpful and mostly positive. Not only did we receive approval to continue with our design, but we also had comments that would help us guide us in improving the solution and creating our final design. To read more, click [here!](https://naveedfarahani.github.io/courses/finalreport).
 
