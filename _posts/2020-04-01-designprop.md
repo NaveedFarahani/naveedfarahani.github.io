@@ -18,6 +18,6 @@ Furthermore, I needed to ensure that any design not only fit our purification FO
   <img src="/assets/images/dpimage1.jpg" alt="Image" />
   <figcaption><em>Figure from Section 9.3 of our Design Proposal</em></figcaption>
 </figure>
-Ultimately, through a matrix decision process, our group decided on using ultrafiltration as the purification method, and a step pedal as the pumping mechanism. Next, you can read about presenting our proposed design to the client and project supervisor [here!](https://naveedfarahani.github.io/courses/finalreport).
+Ultimately, through a matrix decision process, our group decided on using ultrafiltration as the purification method, and a step pedal as the pumping mechanism. Next, you can read about presenting our proposed design to the client and project supervisor [here!](https://naveedfarahani.github.io/courses/designreview).
 
 
