@@ -23,6 +23,6 @@ Furthermore, I needed to ensure that any design not only fit our purification FO
   <figcaption><em>Figure from Section 9.3 of our Design Proposal</em></figcaption>
 </figure>
 **My Thoughts:**<br>
-Ultimately, through a matrix decision process, our group decided on using ultrafiltration as the purification method, and a step pedal as the pumping mechanism. The ideation process had been challenging but extremely interesting, it felt like "real" design work. Even though my alternative design had failed to meet our objectives, I was still proud of the work I had accomplished and it was testament to the real world and the fact that the best solution is never the first one. Next, you can read about presenting our proposed design to the client and project supervisor [here!](https://naveedfarahani.github.io/courses/designreview).
+Ultimately, through a matrix decision process, our group decided on using ultrafiltration as the purification method, and a step pedal as the pumping mechanism. The ideation process had been challenging but extremely interesting, it felt like "real" design work. Even though my alternative design had failed to meet our objectives, I was still proud of the work I had accomplished and it was testament to the real world and the fact that the best solution is never the first one. Next, you can read about presenting our proposed design to the client and project supervisor [here!](https://naveedfarahani.github.io/courses/designreview)
 
 
