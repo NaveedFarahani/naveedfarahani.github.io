@@ -11,4 +11,4 @@ gallery:
 classes: wide
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="Shot with a variety of digital and film cameras." %}
