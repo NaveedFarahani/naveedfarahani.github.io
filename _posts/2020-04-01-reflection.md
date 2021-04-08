@@ -29,4 +29,6 @@ My conscious approach to working on my communication showed in the second survey
 > “Naveed, you are a super accountable teammate, and I am always impressed with the work you do. I think that you could be more confident and direct with your thoughts and opinions, especially on the parts of the project that are your expertise. It was a pleasure working with you and all the best next year!”
 > <cite>Anonymous Team Member</cite>
 
-In following from above, having confidince in myself is still an area of improvement. I know that I can perform and get the work done at a high standard, but I needed to be able to communicate that to others as well.
+In following from above, having confidence in myself is still an area of improvement. I know that I can perform and get the work done at a high standard, but I need to be able to communicate that to others as well.
+
+Overall, my experience participating in the Multidisciplinary Capstone program was a positive one! I enjoyed working my team members, I liked the project we completed, and ultimately I'm proud of our end result. I think it was a very valuable experience that added to my personal and professional development and it is something I will always look back on fondly. 
