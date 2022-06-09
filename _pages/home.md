@@ -6,9 +6,9 @@ title: "Welcome to My Site"
 author_profile: TRUE
 header: 
     overlay_image: /assets/images/homepagepic.jpg
-excerpt: "My name is Naveed Farahani, and I am a Chemical Engineering student in my 4th year at the University of Toronto. I am currently looking for opportunities to begin my professional career upon graduation. You can read my resume [here](https://naveedfarahani.github.io/resume) or can email me."
+excerpt: "My name is Naveed Farahani, and I am a Business Analyst at Deloitte. I am also a Chemical Engineering graduate from the University of Toronto. I am currently looking for professional opportunities to align my career on the path of tackling climate change. You can read my resume [here](https://naveedfarahani.github.io/resume) or can email me."
 intro: 
-    - excerpt: 'This past school year, I decided to take part in UofTs Multidisciplinary Capstone Design course (APS490Y). As part of a team of 6 Chemical and Mechanical engineering students, we were tasked with designing a portable human powered water purification device for the Canadian disaster relief charity, GlobalMedic. You can read more [here!](https://naveedfarahani.github.io/courses/capstoneintro)'
+    - excerpt: 'In my 4th and final year of undergrad, I decided to take part in UofTs Multidisciplinary Capstone Design course (APS490Y). As part of a team of 6 Chemical and Mechanical engineering students, we were tasked with designing a portable human powered water purification device for the Canadian disaster relief charity, GlobalMedic. You can read more [here!](https://naveedfarahani.github.io/courses/capstoneintro)'
 feature_row:
   - image_path: /assets/images/projectreq.jpg
     alt: "customizable"
